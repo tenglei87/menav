@@ -1,0 +1,38 @@
+title: 上帝科学院
+description: AI网站导航站
+author: Terry
+favicon: favicon.ico
+logo_text: 上帝科学院
+
+fonts:
+  title:
+    family: Poppins
+    weight: 600
+    source: system
+  subtitle:
+    family: Quicksand
+    weight: 500
+    source: system
+  body:
+    family: Noto Sans SC
+    weight: 400
+    source: system
+    
+profile:
+  title: Hello,
+  subtitle: Welcome to My Navigation
+  description: 
+
+social:
+  - name: GitHub
+    url: https://github.com
+    icon: fab fa-github
+  - name: Telegram
+    url: https://t.me
+    icon: fab fa-telegram
+  - name: Twitter
+    url: https://twitter.com
+    icon: fab fa-twitter
+  - name: Steam
+    url: https://steam.com
+    icon: fab fa-steam 
